@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+/* از دایکیومنت تیلویند ورژم 4.1  اضافه شده */
+
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
 
