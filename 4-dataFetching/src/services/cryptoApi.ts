@@ -1,4 +1,6 @@
 
+// نکته اومدیم از پارامز داخل اکسیوس استفاده کردیم دیتارو از ای پی ها همینجا متد گت زدیم و تابه رو اکسپورت کردیم
+
 import axios from "axios";
 
 const API_KEY = "CG-3ebo5VJVAykgSkoJqMpC2fLN";
