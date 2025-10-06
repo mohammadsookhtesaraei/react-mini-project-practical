@@ -1,4 +1,4 @@
-# List rendering with axios and us params
+# List rendering with axios and use params method from axios
 
 
 
